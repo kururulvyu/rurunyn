@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>To Layeik💖</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <h1>Hii my love 💕</h1>
+    <p>
+      happy national girlfriend day MY love. We have been together for five months and we argue we fight we had bad days. Thankyou for not giving up on me even when we had bad days. Remember that I Love You a lot like really a lot. And I hope we dont give up on each other in the future too. Lets be together for a very long time. You mean a lot to me. I LOVE YOUUUU.you deserve the world.
+    </p>
+    <img src="your-photo.jpg" alt="Us together" class="photo">
+    <button onclick="showSurprise()">Click for a Surprise</button>
+    <div id="surprise" style="display:none;">
+      <p>You are my forever and always. 💖</p>
+      <audio controls>
+        <source src="your-favorite-song.mp3" type="audio/mpeg">
+        Your browser doesn't support audio.
+      </audio>
+    </div>
+  </div>
+
+  <!-- Falling Hearts -->
+  <div class="hearts-container" id="hearts-container"></div>
+
+  <script src="script.js"></script>
+</body>
+</html>
